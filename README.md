@@ -39,7 +39,7 @@ Ensure Python 3.8+ is installed on your system.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AleFeri/conway_game_of_life.git
    cd conway-game-of-life
    ```
 2.	Run the setup script to install dependencies and set up the environment:
